@@ -14,7 +14,7 @@
 ---
 
 ## 🚀 기술 스택
-
+다양한 프로젝트에서 다음과 같은 기술들을 사용했습니다:
 
 ### ✨ 언어
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
@@ -29,6 +29,17 @@
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white)
 ![전자정부프레임워크](https://img.shields.io/badge/전자정부프레임워크-%2366CCFF.svg?style=flat-square)
 ![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=flat-square&logo=arduino&logoColor=white)
+
+### ✨ 데이터베이스 및 서버
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white)
+![OracleDB](https://img.shields.io/badge/OracleDB-%23F80000.svg?style=flat-square&logo=oracle&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat-square&logo=firebase&logoColor=black)
+![Tomcat](https://img.shields.io/badge/Tomcat-%23F8DC75.svg?style=flat-square&logo=apache-tomcat&logoColor=black)
+
+### ✨ 버전 관리
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![SVN](https://img.shields.io/badge/SVN-%2380888D.svg?style=flat-square&logo=subversion&logoColor=white)
+
 
 ---
 
