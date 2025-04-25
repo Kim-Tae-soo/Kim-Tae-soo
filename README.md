@@ -14,7 +14,6 @@
 ---
 
 ## 🚀 기술 스택
-다양한 프로젝트에서 다음과 같은 기술들을 사용했습니다:
 
 ### ✨ 언어
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
@@ -25,6 +24,9 @@
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
 
 ### ✨ 프레임워크 & 라이브러리
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black)
+![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat-square&logo=springboot&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=flat-square&logo=vue.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white)
 ![전자정부프레임워크](https://img.shields.io/badge/전자정부프레임워크-%2366CCFF.svg?style=flat-square)
@@ -44,8 +46,6 @@
 ---
 
 ## 🌱 학습 중
-현재 다음 기술들을 배우고 있습니다:
-
 ### 📘 학습 목표
 - **React**: UI/UX 설계 및 컴포넌트 기반 개발
 - **Spring & Spring Boot**: 백엔드 개발 및 REST API 설계
